@@ -1,0 +1,9 @@
+D:\ServerBackup\NetMonitor\obj\Debug\NetMonitor.csprojResolveAssemblyReference.cache
+D:\ServerBackup\NetMonitor\obj\Debug\NetMonitor.Form1.resources
+D:\ServerBackup\NetMonitor\obj\Debug\NetMonitor.Properties.Resources.resources
+D:\ServerBackup\NetMonitor\obj\Debug\NetMonitor.csproj.GenerateResource.Cache
+D:\ServerBackup\NetMonitor\bin\Debug\NetMonitor.exe.config
+D:\ServerBackup\NetMonitor\bin\Debug\NetMonitor.exe
+D:\ServerBackup\NetMonitor\bin\Debug\NetMonitor.pdb
+D:\ServerBackup\NetMonitor\obj\Debug\NetMonitor.exe
+D:\ServerBackup\NetMonitor\obj\Debug\NetMonitor.pdb

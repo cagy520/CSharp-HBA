@@ -1,0 +1,17 @@
+D:\MSS源代码\ServerBackup\bin\Release\ServerBackup.exe.config
+D:\MSS源代码\ServerBackup\bin\Release\ServerBackup.exe
+D:\MSS源代码\ServerBackup\bin\Release\ServerBackup.pdb
+D:\MSS源代码\ServerBackup\obj\x86\Release\ServerBackup.FrmServerBackup.resources
+D:\MSS源代码\ServerBackup\obj\x86\Release\ServerBackup.Properties.Resources.resources
+D:\MSS源代码\ServerBackup\obj\x86\Release\ServerBackup.csproj.GenerateResource.Cache
+D:\MSS源代码\ServerBackup\obj\x86\Release\ServerBackup.exe
+D:\MSS源代码\ServerBackup\obj\x86\Release\ServerBackup.pdb
+C:\Users\Administrator\Desktop\双机热备\bin\Release\ServerBackup.exe.config
+C:\Users\Administrator\Desktop\双机热备\bin\Release\ServerBackup.exe
+C:\Users\Administrator\Desktop\双机热备\bin\Release\ServerBackup.pdb
+C:\Users\Administrator\Desktop\双机热备\obj\x86\Release\ServerBackup.FrmServerBackup.resources
+C:\Users\Administrator\Desktop\双机热备\obj\x86\Release\ServerBackup.Properties.Resources.resources
+C:\Users\Administrator\Desktop\双机热备\obj\x86\Release\ServerBackup.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\双机热备\obj\x86\Release\ServerBackup.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\双机热备\obj\x86\Release\ServerBackup.exe
+C:\Users\Administrator\Desktop\双机热备\obj\x86\Release\ServerBackup.pdb

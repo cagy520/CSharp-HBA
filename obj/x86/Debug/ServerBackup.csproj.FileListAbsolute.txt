@@ -1,0 +1,9 @@
+D:\ServerBackup\bin\Debug\ServerBackup.exe.config
+D:\ServerBackup\bin\Debug\ServerBackup.exe
+D:\ServerBackup\bin\Debug\ServerBackup.pdb
+D:\ServerBackup\obj\x86\Debug\ServerBackup.csprojResolveAssemblyReference.cache
+D:\ServerBackup\obj\x86\Debug\ServerBackup.FrmServerBackup.resources
+D:\ServerBackup\obj\x86\Debug\ServerBackup.Properties.Resources.resources
+D:\ServerBackup\obj\x86\Debug\ServerBackup.csproj.GenerateResource.Cache
+D:\ServerBackup\obj\x86\Debug\ServerBackup.exe
+D:\ServerBackup\obj\x86\Debug\ServerBackup.pdb

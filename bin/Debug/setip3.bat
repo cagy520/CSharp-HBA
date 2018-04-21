@@ -1,0 +1,1 @@
+netsh interface ip set address "ÒÔÌ«Íø" static 172.16.108.51 255.255.255.0 172.16.108.254

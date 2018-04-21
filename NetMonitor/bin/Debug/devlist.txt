@@ -1,0 +1,36 @@
+0
+Microsoft Kernel Debug Network Adapter
+0
+Teredo Tunneling Pseudo-Interface
+39
+Hyper-V Virtual Switch Extension Adapter
+
+Microsoft Hosted Network Virtual Adapter
+
+Microsoft ISATAP Adapter
+22
+Hyper-V Virtual Ethernet Adapter
+0
+Intel(R) 82574L Gigabit Network Connection #2
+0
+Intel(R) 82574L Gigabit Network Connection #3
+0
+VMware Virtual Ethernet Adapter for VMnet1
+
+Microsoft ISATAP Adapter
+
+Realtek RTL8188EU Wireless LAN 802.11n USB 2.0 Network Adapter
+0
+Microsoft ISATAP Adapter #3
+
+Microsoft Wi-Fi Direct Virtual Adapter
+0
+Microsoft ISATAP Adapter
+39
+Hyper-V Virtual Switch Extension Adapter
+22
+Hyper-V Virtual Ethernet Adapter
+39
+Hyper-V Virtual Switch Extension Adapter
+39
+Hyper-V Virtual Ethernet Adapter
